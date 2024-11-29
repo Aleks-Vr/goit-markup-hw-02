@@ -46,7 +46,7 @@ button {cursor: pointer;}
     /* #endregion  */
         /* #region adress */    
 
-        .adress-page {
+        .adress-page {font-style: normal
         }
         .adress-list {
         }
@@ -58,6 +58,8 @@ button {cursor: pointer;}
             letter-spacing: 0.02em;
             color: #434455;
         }
+        .adress-item-link:hover,
+        .adress-item-link:focus {color: #404bbf;}
         /* #endregion */
     /* #region Main One */
     .section-general {background-color: #2e2f42;
