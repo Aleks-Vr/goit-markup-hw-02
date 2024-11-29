@@ -1,5 +1,6 @@
 body {font-family: "Roboto", sans-serif;
-color: #434455;}
+color: #434455;
+background-color: #FFFFFF;}
 a {text-decoration: none;}
 ul,ol {list-style-type: none;}
 button {cursor: pointer;}
@@ -13,7 +14,7 @@ button {cursor: pointer;}
         .logo {            font-family: "Raleway", sans-serif;
             font-weight: 700;
             font-size: 18px;
-            line-height: 1.16667;
+            line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
             color: #4d5ae5;}
@@ -21,7 +22,7 @@ button {cursor: pointer;}
         .logo-style {font-family: "Raleway", sans-serif;
             font-weight: 700;
             font-size: 18px;
-            line-height: 1.16667;
+            line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
             color: #2e2f42;}
@@ -63,7 +64,7 @@ button {cursor: pointer;}
     }
     .general-page {font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -101,10 +102,11 @@ button {cursor: pointer;}
     }
     .team-title {font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize
     }
     .team-list {
     }
